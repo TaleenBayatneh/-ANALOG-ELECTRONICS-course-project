@@ -1,6 +1,6 @@
 # Automatic Night Light Circuit - ENEE2360 Project
 
-![Birzeit University Logo](https://example.com/path/to/birzeit/logo.png) *(optional)*
+
 
 ## 🌙 Project Overview
 An analog electronics design that automatically activates an LED when ambient light falls below a configurable threshold. Implemented both practically on breadboard and simulated in PSpice, this project demonstrates light sensing using an LDR with comparator-based switching.
